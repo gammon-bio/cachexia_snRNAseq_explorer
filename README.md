@@ -10,7 +10,7 @@ Interactive Shiny app for exploring single-nucleus RNA-seq data from Zhang et al
 
 Search any gene and instantly see its expression across 15 cell types on UMAP, split by control vs cachexia condition. Browse per-cell-type differential expression results with interactive volcano plots, compare cell type proportions between conditions, and explore marker gene signatures with customizable dot plots and heatmaps. All plots are downloadable as PDF. Designed so lab members can explore the dataset without needing computational expertise.
 
-![App Screenshot](results/app_screenshot.png)
+![App Screenshot](assets/app_screenshot.png)
 
 ## Methods
 
