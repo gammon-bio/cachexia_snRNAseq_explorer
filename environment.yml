@@ -1,0 +1,31 @@
+name: zhang_shiny
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.4.2
+  - r-seurat>=5.0
+  - r-seuratobject
+  - r-hdf5r
+  - r-matrix
+  - r-sctransform
+  - bioconductor-glmgampoi
+  - r-shiny
+  - r-bslib
+  - r-shinywidgets
+  - r-dt
+  - r-plotly
+  - r-waiter
+  - r-ggplot2
+  - r-patchwork
+  - r-viridis
+  - r-rcolorbrewer
+  - r-scales
+  - r-dplyr
+  - r-tidyr
+  - r-remotes
+  - r-htmltools
+  - r-harmony
+  - r-ggrepel
+  - r-pheatmap
+  - r-rsconnect
